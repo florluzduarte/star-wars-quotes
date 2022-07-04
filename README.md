@@ -6,7 +6,7 @@ Este proyecto fue creado con la intención de practicar peticiones HTML y Async/
 
 ## Resultado final:
 
-Pueden ver como quedó esta app desde:
+👉 Pueden ver como quedó esta app desde: https://florluzduarte.github.io/star-wars-quotes/
 
 ### Notas para trabajar con el código:
 
